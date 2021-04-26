@@ -71,3 +71,8 @@ red('test text color!')
 * success
 * warning
 * error
+
+
+参考链接
+
+[一步步构建发布一个 TypeScript NPM 包](https://juejin.cn/post/6844903892119977998#heading-3)
