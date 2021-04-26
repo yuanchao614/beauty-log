@@ -1,5 +1,5 @@
 {
-  "name": "beauty-log",
+  "name": "beauty-console-log",
   "version": "1.0.0",
   "description": "Customize your console log",
   "main": "lib/index.js", 

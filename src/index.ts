@@ -1,1 +1,5 @@
-export const Greeter = (name: string) => `Hello ${name}`;
+import * as beautyLog from './colors';
+
+export default {
+    beautyLog
+}
