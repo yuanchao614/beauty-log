@@ -1,5 +1,7 @@
-import * as beautyLog from './colors';
+import * as colorLog from './colors';
 
-export default {
-    beautyLog
+const beautyLog = {
+    ...colorLog
 }
+
+export default beautyLog;
