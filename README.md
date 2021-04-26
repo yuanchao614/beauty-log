@@ -2,6 +2,8 @@
 
 #### Customize your console log!
 
+![image](https://github.com/yuanchao614/beauty-log/blob/main/images/beauty-log.png)
+
 ### Installation
 
 ```bash
